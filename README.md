@@ -7,4 +7,4 @@ Welcome to the repository for my UI/UX internship tasks at CodeSoft. In this rep
 ## Task 1: [Mobile SignUp flow]
 
 ### Video Demo
-[![Task 1 Video]](./task-1/Mobile-App-New.mp4)
+[![Task 1 Video](./task-1/Mobile-App.jpg)](./task-1/Mobile-App-New.mp4)
