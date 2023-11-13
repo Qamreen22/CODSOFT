@@ -1,6 +1,6 @@
 # CODSOFT
 
-##CodSoft Internship - UIUX tasks
+## CodSoft Internship - UIUX tasks
 
 Welcome to the repository for my UI/UX internship tasks at CodeSoft. In this repository, I have included the deliverables for Task 1, Task 2 and Task 3, including an image for each task.
 
