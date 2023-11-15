@@ -26,7 +26,7 @@ Task 2 involved designing an email template. The objective was to create an enga
 Task 3 focused on designing an e-commerce website using Figma. The goal was to create an immersive and user-friendly online shopping experience.
 
 ### Image Preview
-![Task 3 Image](link-to-ecommerce-website-image)
+![Task 3 Image](./task-3/E-Commerce Website.png)
 
 ## Technologies Used
 - Figma: Used for the design and prototyping of all tasks.
@@ -40,4 +40,4 @@ To view the full mobile app signup flow, please follow this [link](https://www.f
 To view the email template, please follow this [link](https://www.figma.com/proto/AFfv6JIIcgYOclNWrQEcUF/Email-Template?page-id=0%3A1&type=design&node-id=3-4&viewport=503%2C-724%2C1.5&t=S0ymZJesrpWCJRoa-1&scaling=scale-down&mode=design)
 
 ### E-commerce Website (Task 3)
-To view the E-commerce Website, please follow this 
+To view the E-commerce Website, please follow this [link](https://www.figma.com/proto/AFfv6JIIcgYOclNWrQEcUF/Email-Template?page-id=0%3A1&type=design&node-id=3-4&viewport=503%2C-724%2C1.5&t=S0ymZJesrpWCJRoa-1&scaling=scale-down&mode=design](https://www.figma.com/proto/ULckUzo9bx3p3IU2k5SnNB/E-Commerce-Website?page-id=0%3A1&type=design&node-id=2-2&viewport=232%2C235%2C0.25&t=iXO7pVtl0cUvdonK-1&scaling=scale-down-width&mode=design)https://www.figma.com/proto/ULckUzo9bx3p3IU2k5SnNB/E-Commerce-Website?page-id=0%3A1&type=design&node-id=2-2&viewport=232%2C235%2C0.25&t=iXO7pVtl0cUvdonK-1&scaling=scale-down-width&mode=design)
