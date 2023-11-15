@@ -41,3 +41,12 @@ To view the email template, please follow this [link](https://www.figma.com/prot
 
 ### E-commerce Website (Task 3)
 To view the E-commerce Website, please follow this [link](https://www.figma.com/proto/ULckUzo9bx3p3IU2k5SnNB/E-Commerce-Website?page-id=0%3A1&type=design&node-id=2-2&viewport=232%2C235%2C0.25&t=iXO7pVtl0cUvdonK-1&scaling=scale-down-width)
+
+## About Me
+
+Greetings! I'm Qamreen, currently pursuing a Bachelor's in Computer Science and Design. As a dedicated UI/UX intern at Codsoft, I've had the privilege of working on impactful projects like mobile app sign-up flows, email templates, and e-commerce websites.
+In the realm of technology and design, I find the perfect convergence of my academic pursuits. Beyond coding algorithms, I'm passionate about crafting seamless and user-centric digital experiences. 
+As I navigate the exciting intersection of Computer Science and Design, my goal is to bridge the gap between functionality and aesthetics, creating solutions that are both efficient and visually compelling.
+
+Let's connect and explore the boundless possibilities at the crossroads of code and creativity!
+
