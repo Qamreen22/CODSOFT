@@ -40,4 +40,4 @@ To view the full mobile app signup flow, please follow this [link](https://www.f
 To view the email template, please follow this [link](https://www.figma.com/proto/AFfv6JIIcgYOclNWrQEcUF/Email-Template?page-id=0%3A1&type=design&node-id=3-4&viewport=503%2C-724%2C1.5&t=S0ymZJesrpWCJRoa-1&scaling=scale-down&mode=design)
 
 ### E-commerce Website (Task 3)
-To view the E-commerce Website, please follow this [link](https://www.figma.com/proto/ULckUzo9bx3p3IU2k5SnNB/E-Commerce-Website?page-id=0%3A1&type=design&node-id=2-2&viewport=232%2C235%2C0.25&t=iXO7pVtl0cUvdonK-1&scaling=scale-down-width&mode=design)
+To view the E-commerce Website, please follow this [link](https://www.figma.com/proto/ULckUzo9bx3p3IU2k5SnNB/E-Commerce-Website?page-id=0%3A1&type=design&node-id=2-2&viewport=232%2C235%2C0.25&t=iXO7pVtl0cUvdonK-1&scaling=scale-down-width)
